@@ -19,7 +19,7 @@
     "require": {
         "php": "^7.3|^8.0",
         "illuminate/support": "^6.0|^7.0|^8.0",
-        "sendgrid/sendgrid-php": "^7.9.2"
+        "sendgrid/sendgrid": "~7"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.0|^9.0",
