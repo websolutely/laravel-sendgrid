@@ -4,7 +4,7 @@
     "keywords": [
         "laravel",
         "newsletter",
-        "mailchimp"
+        "sendgrid"
     ],
     "homepage": "https://github.com/spatie/laravel-newsletter",
     "license": "MIT",
