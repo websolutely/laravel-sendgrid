@@ -6,7 +6,7 @@
         "newsletter",
         "sendgrid"
     ],
-    "homepage": "https://github.com/spatie/laravel-newsletter",
+    "homepage": "https://github.com/websolutely/laravel-sendgrid",
     "license": "MIT",
     "authors": [
         {
