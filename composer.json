@@ -1,5 +1,5 @@
 {
-    "name": "websolutely/laravel-newsletter",
+    "name": "websolutely/laravel-sendgrid",
     "description": "Manage newsletters in Laravel",
     "keywords": [
         "laravel",
